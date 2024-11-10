@@ -1,0 +1,6 @@
+llvmlite==0.43.0
+Nuitka==2.4.11
+numba==0.60.0
+numpy==2.0.2
+ordered-set==4.1.0
+zstandard==0.23.0
